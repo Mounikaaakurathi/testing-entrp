@@ -20,7 +20,8 @@
     },
     "kubernetesVersion": {
       "type": "string",
-      "defaultValue": ""
+      "metadata": {
+        "description": "latest kubernetes cluster version."
       }
     },
   
