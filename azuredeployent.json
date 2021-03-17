@@ -8,14 +8,12 @@
     },
     "servicePrincipalClientId": {
       "type": "securestring",
-      "value": "",
       "metadata": {
         "description": "The Service Principal Client ID."
       }
     },
     "servicePrincipalClientSecret": {
       "type": "securestring",
-      "value": "",
       "metadata": {
         "description": "The Service Principal Client Secret."
       }
